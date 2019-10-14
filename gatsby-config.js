@@ -31,6 +31,9 @@ module.exports = {
       email: 'thomdglenn@gmail.com',
       telegram: '@ThomGlenn',
       twitter: '@ThomGlenn',
+      github: '',
+      vk: '',
+      rss: '',
     },
   },
   plugins: [
