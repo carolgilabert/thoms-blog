@@ -16,7 +16,7 @@ I'm very new to Extinction Rebellion (XR). I went to my first XR welcome meeting
 
 I'd like to share my experience of getting involved with the October 2019 Extinction rebellion actions in London.
 
-I'm very new to Extinction Rebellion (XR). I went to my first XR welcome meeting only a few weeks ago. After that I watched the "Heading for Extinction" talk and decided I needed to go to London for the actions. I felt I had to do something, ACT NOW. I made this decision about a week before it was all due to start and was incredibly nervous for those next few days. I didn't have a chance attend any of the non violent direct action (NVDA) training sessions and I hadn't really made any connections with the people in my local group so had no idea what to expect. All sorts of ideas and fears were running through my head of what could happen. Eventually I told myself if I at least just stand at the side and watch I will learn something and will be able to share what I saw. So I picked up a cheap return ticket and headed down on Sunday evening for the opening ceremony. I also play in a samba band so I also picked up my drum just in case.
+I'm very new to [Extinction Rebellion (XR)](https://rebellion.earth/). I went to my first XR welcome meeting only a few weeks ago. After that I watched the "Heading for Extinction" talk and decided I needed to go to London for the actions. I felt I had to do something, ACT NOW. I made this decision about a week before it was all due to start and was incredibly nervous for those next few days. I didn't have a chance attend any of the non violent direct action (NVDA) training sessions and I hadn't really made any connections with the people in my local group so had no idea what to expect. All sorts of ideas and fears were running through my head of what could happen. Eventually I told myself if I at least just stand at the side and watch I will learn something and will be able to share what I saw. So I picked up a cheap return ticket and headed down on Sunday evening for the opening ceremony. I also play in a samba band so I also picked up my drum just in case.
 
 In the end, I spent two and a half days down there and I’m still getting my head around everything I saw and did. I met so many amazing people from all sorts of backgrounds. Or should I say ordinary people being amazing and doing amazing things. They all had so much passion and compassion. In my normal life I often feel I’m going mad worrying about climate change while everyone around me is just carrying on business as usual. At the XR camps, it was such a relief to hear peoples stories and concerns about the climate emergency, to not feel alone in my own fears.
 
@@ -37,3 +37,9 @@ If you can't get to the actions, you can still help. Your local group will have 
 I only had a limited time at the actions due to other life commitments, but I will try to get back or help in someway as soon as I can. I found the whole experience of being there incredibly inspiring. I hope I helped in some small way and I hope above all the movement continues to grow and aims of XR are achieved before it's too late.
 
 With Love & Rage
+
+---
+
+Heading for extinction talk:
+
+<p><iframe style="min-width: 560px; min-height: 315px; width: 100%;" src="https://www.youtube.com/embed/n__y1FXK_jE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
